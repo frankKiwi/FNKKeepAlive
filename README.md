@@ -10,3 +10,5 @@
  [FNKKeepAliveManager addObserver:[UIApplication sharedApplication].delegate];
 
 ```
+# ###喜欢你就点个赞呗!!!
+
